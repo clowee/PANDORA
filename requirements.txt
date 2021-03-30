@@ -76,7 +76,7 @@ psutil==5.7.2
 ptyprocess==0.6.0
 py4j==0.10.9
 PyGithub==1.52
-Pygments==2.6.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.6.0
 pyrsistent==0.17.3
